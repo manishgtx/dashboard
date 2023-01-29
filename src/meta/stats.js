@@ -1,4 +1,4 @@
-import { IoCloudDownloadOutline } from 'react-icons/io';
+import { IoCloudDownloadOutline } from 'react-icons/io5';
 import {RiDeleteBin6Line} from 'react-icons/ri';
 import { FiUsers } from 'react-icons/fi';
 import {TbUserPlus , TbUserOff} from 'react-icons/tb';

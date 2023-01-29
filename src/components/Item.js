@@ -6,7 +6,7 @@ const Item = ({id,title,icon,isSelected,setIsSelected}) => {
         <span className='icon'>
             {icon}
         </span>
-        <p>{title}</p>
+        <p className='item-title'>{title}</p>
     </li>
   )
 }
